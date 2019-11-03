@@ -1,0 +1,101 @@
+root - INFO - Iniciando processo.
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'files_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
