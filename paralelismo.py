@@ -29,7 +29,7 @@ def insert_files_queue(files_queue, process):
 	except Exception as e:
 		logging.error("[Main | insert_files_queue - listdir ] >> Um erro inesperado ocorreu. Descrição: %s" % e)
 
-	"""Enchendo fila de arquivos com cada
+	"""Enchendo fila de arquivos_csvs com cada
 	arquivo pego da pasta arquivos_csvs"""
 	for file in files:
 		try:
@@ -43,7 +43,7 @@ def process_file(files_queue, insert_queue, process):
 
 	while True:
 		insert_list = []
-		"""Pegando um arquivo da fila de arquivos"""
+		"""Pegando um arquivo da fila de arquivos_csvs"""
 		if files_queue.qsize() == 0:
 			if len(os.listdir('%s/arquivos_csvs' % PROJECT_FOLDER)) == 0:
 				break
@@ -51,7 +51,7 @@ def process_file(files_queue, insert_queue, process):
 				pass
 		else:
 			file = files_queue.get()
-			logging.info("Pegando arquivo na fila de arquivos 'files_queue'. Processo número: %s" % process)
+			logging.info("Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: %s" % process)
 
 			"""Pegando arquivo csv com várias linhas
 			e colocando-o no modelo adequado para ser
@@ -83,7 +83,7 @@ def insert_data(insert_queue, pool_conn, process):
 				pass
 		else:
 			insert_item = insert_queue.get()
-			logging.info("Pegando arquivo na fila de arquivos 'insert_queue'. Processo número: %s" % process)
+			logging.info("Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: %s" % process)
 
 			try:
 				conn = pool_conn.get_connection()
@@ -107,7 +107,7 @@ def main():
 	pool_conn = start_connections(
 		pool_name="pool_paralelismo", host="localhost",
 		port=3306, database="livro_python",
-		user="root", password="#Tiagos3v3n", pool_size=3)
+		user="root", password="12345678", pool_size=3)
 
 	try:
 		with futures.ThreadPoolExecutor(max_workers=7) as parallelism:

@@ -99,3 +99,108 @@ root - INFO - Pegando arquivo na fila de arquivos 'insert_queue'. Processo n�mer
 root - INFO - Dados do arqivo inseridos no banco de dados. Processo n�mero: 3
 root - INFO - Dados do arqivo inseridos no banco de dados. Processo n�mero: 1
 root - INFO - Dados do arqivo inseridos no banco de dados. Processo n�mero: 2
+root - INFO - Iniciando processo.
+root - ERROR - [Main | insert_files_queue - listdir ] >> Um erro inesperado ocorreu. Descrição: [Errno 2] No such file or directory: '/Users/tiagoluizrs/PycharmProjects/paralelismo/arquivos_csvs'
+root - INFO - Iniciando processo.
+root - ERROR - [Main | insert_files_queue - listdir ] >> Um erro inesperado ocorreu. Descrição: [Errno 2] No such file or directory: '/Users/tiagoluizrs/PycharmProjects/paralelismo/arquivos_csvs'
+root - INFO - Iniciando processo.
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na pasta e inserindo na fila 'files_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'files_queue'. Processo número: 2
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 3
+root - INFO - Inserindo arquivo na fila 'insert_queue'. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 3
+root - INFO - Pegando arquivo na fila de arquivos_csvs 'insert_queue'. Processo número: 2
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 1
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 3
+root - INFO - Dados do arqivo inseridos no banco de dados. Processo número: 2
